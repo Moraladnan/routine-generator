@@ -1,0 +1,2846 @@
+{
+  "config": {
+    "days": [
+      "SUN",
+      "MON",
+      "TUE",
+      "WED"
+    ],
+    "timeWindow": {
+      "start": "10:00 AM",
+      "end": "4:20 PM"
+    },
+    "courses": [
+      "CSE261",
+      "CSE263",
+      "CSE264",
+      "CSE265",
+      "CSE266",
+      "MAT261"
+    ]
+  },
+  "routinesCount": 20,
+  "routines": [
+    {
+      "routineNumber": 1,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.10",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 2,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.10",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.12",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU614"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 3,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.10",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.5",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "MAIM",
+            "name": "Maisha Muntaha"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 4,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.10",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.9",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "RFD",
+            "name": "Rifat Ahommed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 5,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.4",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 6,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.7",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MTK",
+            "name": "Md. Tamim Khandakar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 7,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.4",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.12",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU614"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 8,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.7",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MTK",
+            "name": "Md. Tamim Khandakar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.12",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU614"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 9,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.4",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.5",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "MAIM",
+            "name": "Maisha Muntaha"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 10,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.7",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MTK",
+            "name": "Md. Tamim Khandakar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.5",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "MAIM",
+            "name": "Maisha Muntaha"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 11,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.4",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.9",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "RFD",
+            "name": "Rifat Ahommed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 12,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.10",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "TAJO",
+            "name": "Tanjina Oriana"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.7",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MTK",
+            "name": "Md. Tamim Khandakar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.9",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "RFD",
+            "name": "Rifat Ahommed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 13,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.3",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "MDSM",
+            "name": "Md. Shanian Moed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 14,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.3",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "MDSM",
+            "name": "Md. Shanian Moed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.12",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "SHM",
+            "name": "Md. Shamim"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU614"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 15,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.3",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "MDSM",
+            "name": "Md. Shanian Moed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.5",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "MAIM",
+            "name": "Maisha Muntaha"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 16,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 40,
+        "longestGapMinutes": 10
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.3",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "MDSM",
+            "name": "Md. Shanian Moed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU325"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.4",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "MMUA",
+            "name": "Dr. Md. Musfique Anwar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU215"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.7",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "NJJO",
+            "name": "Nusrat Jahan Jonaki"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.9",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "RFD",
+            "name": "Rifat Ahommed"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 17,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 100,
+        "longestGapMinutes": 40
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.4",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU509"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.7",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SAHO",
+            "name": "Sadia Hossain"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            },
+            {
+              "day": "TUE",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.4",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "MAQ",
+            "name": "Mohammad Ariful Huq"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU326"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU326"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 18,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 100,
+        "longestGapMinutes": 40
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.7",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MTK",
+            "name": "Md. Tamim Khandakar"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "PC107"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.7",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SAHO",
+            "name": "Sadia Hossain"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            },
+            {
+              "day": "TUE",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.4",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "MAQ",
+            "name": "Mohammad Ariful Huq"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU326"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU326"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 19,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 100,
+        "longestGapMinutes": 40
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.7",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SAHO",
+            "name": "Sadia Hossain"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            },
+            {
+              "day": "TUE",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.5",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "MAQ",
+            "name": "Mohammad Ariful Huq"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU320"
+            },
+            {
+              "day": "WED",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU320"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routineNumber": 20,
+      "score": 165.5,
+      "stats": {
+        "distinctDays": 4,
+        "totalCredits": 14,
+        "earliestStart": "10:00 AM",
+        "latestEnd": "2:50 PM",
+        "totalGapMinutes": 120,
+        "longestGapMinutes": 40
+      },
+      "scoreBreakdown": {
+        "outOfWindowPenalty": 0,
+        "largeGapPenalty": 0,
+        "smallGapPenalty": 0,
+        "singleClassDayPenalty": 0,
+        "consecutiveDaysBonus": 150,
+        "preferredDayOrderBonus": 60,
+        "latePenalty": -44.5,
+        "labTeacherBonus": 0,
+        "labDayBonus": 0
+      },
+      "sections": [
+        {
+          "courseCode": "CSE263",
+          "sectionId": "CSE263.1",
+          "title": "Digital Logic Design",
+          "faculty": {
+            "code": "FUZ",
+            "name": "Farhad Uz Zaman"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            },
+            {
+              "day": "WED",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU614"
+            }
+          ]
+        },
+        {
+          "courseCode": "MAT261",
+          "sectionId": "MAT261.5",
+          "title": "Linear Algebra and Matrices",
+          "faculty": {
+            "code": "MALN",
+            "name": "Md Alamin"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            },
+            {
+              "day": "TUE",
+              "time": "11:30 AM - 12:50 PM",
+              "room": "SEU327"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE261",
+          "sectionId": "CSE261.7",
+          "title": "Numerical Methods",
+          "faculty": {
+            "code": "SAHO",
+            "name": "Sadia Hossain"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            },
+            {
+              "day": "TUE",
+              "time": "1:30 PM - 2:50 PM",
+              "room": "SEU319"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE264",
+          "sectionId": "CSE264.10",
+          "title": "Digital Logic Design Lab",
+          "faculty": {
+            "code": "SHJA",
+            "name": "Shanjida Alam"
+          },
+          "meetings": [
+            {
+              "day": "MON",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU616"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE265",
+          "sectionId": "CSE265.6",
+          "title": "Algorithm",
+          "faculty": {
+            "code": "SDK",
+            "name": "Shimul Dey Katha"
+          },
+          "meetings": [
+            {
+              "day": "SUN",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            },
+            {
+              "day": "TUE",
+              "time": "10:00 AM - 11:20 AM",
+              "room": "SEU536"
+            }
+          ]
+        },
+        {
+          "courseCode": "CSE266",
+          "sectionId": "CSE266.1",
+          "title": "Algorithm Lab",
+          "faculty": {
+            "code": "AMH",
+            "name": "Md. Asiful Islam Miah"
+          },
+          "meetings": [
+            {
+              "day": "WED",
+              "time": "11:30 AM - 1:30 PM",
+              "room": "SEU213A"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "diagnostics": []
+}
